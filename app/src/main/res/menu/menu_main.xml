@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itemMenu"
+        android:title="@string/menu"
+        android:orderInCategory="101"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_menu">
+
+        <menu>
+
+            <item android:id="@+id/itemAuthor"
+                app:showAsAction="ifRoom"
+                android:title="@string/author" />
+
+            <item android:id="@+id/itemSave"
+                app:showAsAction="ifRoom"
+                android:title="@string/save" />
+
+            <item android:id="@+id/itemShare"
+                app:showAsAction="ifRoom"
+                android:title="@string/share" />
+
+        </menu>
+
+    </item>
+
+</menu>

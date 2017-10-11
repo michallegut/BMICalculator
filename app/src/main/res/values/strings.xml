@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Zadanie 2</string>
+    <string name="mass">Mass</string>
+    <string name="height">Height</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="bmi">BMI:</string>
+    <string name="mode">Mode:</string>
+    <string name="kg_m">Kg/M</string>
+    <string name="lb_in">Lb/In</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="healthy_weight">Healthy weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="moderately_obese">Moderately obese</string>
+    <string name="severely_obese">Severely obese</string>
+    <string name="very_severely_obese">Very severely obese</string>
+    <string name="wrong_input">Wrong input</string>
+    <string name="already_set">Already set</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="author">Author</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="share_text1">My BMI is:</string>
+    <string name="share_text2">Category:</string>
+    <string name="calculate_first">Calculate your BMI first</string>
+    <string name="choose_application">Choose application</string>
+    <string name="data_saved">Data saved</string>
+    <string name="about_me">Hello! My name is Michal Legut. I\'m 22 and I\'m a second year Computer Science student at Wroclaw University of Technology. As you can probably see I\'m also a professional Android developer. That\'s all I think. Thank you for your attention.</string>
+</resources>
